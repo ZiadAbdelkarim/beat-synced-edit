@@ -1,4 +1,4 @@
-# beat-sync pipeline
+# Beat Synced Edits Pipeline
 
 Automatic beat-synced video editing: drop in a song and raw footage, get a
 beat-locked edit with zero manual cutting.
