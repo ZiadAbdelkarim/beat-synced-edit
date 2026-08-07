@@ -1,4 +1,4 @@
-# beat-synced-edit pipeline
+# beat-synced-edit Python or Claude Code skill pipeline
 
 Automatic beat-synced video editing.
 
