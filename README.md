@@ -1,4 +1,4 @@
-# beat-sync pipeline
+# beat-sync-edit pipeline
 
 Automatic beat-synced video editing.
 
