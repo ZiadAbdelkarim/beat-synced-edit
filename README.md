@@ -7,16 +7,22 @@ With Claude Code, you can provide the skill reference material and orchestrate e
 
 <table>
   <tr>
-  <td width="50%">
+  <td width="33%">
   
   <!-- drag preview_strong-blue-grade.mp4 here (beat-synced cut, strong blue grade) -->
   https://github.com/user-attachments/assets/34b8ef59-345d-4061-befe-aedda861d697
 
   </td>
-  <td width="50%">
+  <td width="33%">
   
   <!-- drag preview_squished-pink-9x16.mp4 here (9:16 vertical, squeeze + pink grade) -->
   https://github.com/user-attachments/assets/672a7783-76e9-4447-956a-a33a30822de8
+
+  </td>
+  <td width="33%">
+  
+  <!-- drag preview_squished-pink-9x16.mp4 here (9:16 vertical, squeeze + pink grade) -->
+  https://github.com/user-attachments/assets/10a059ba-ef98-45e6-a37f-a753b10e3c7d
 
   </td>
   </tr>
