@@ -39,7 +39,20 @@ python3 vertical_style.py <mp4>                  # optional 9:16 squeeze + grade
   `--beat-stride 2` (or 4 for very slow footage); when comparing, render both
   and suffix the outputs `_beat-full` / `_beat-thinned`
 - "start on the best moment" → `--lead` with the highest-energy clip
-- "make it vertical / TikTok-ready" → vertical_style.py after render
+- "make it vertical / TikTok-ready / 9:16" → vertical_style.py after render;
+  "square / 1:1" → center-crop with ffmpeg (`crop=ih:ih,setsar=1` + scale);
+  "stacked / over-under" → `render_edit.py --overunder`
+- **Reference videos — take ONLY what the user asks for.** A reference is not
+  a request to clone the whole look. Extract 3-5 frames
+  (`ffmpeg -ss <t> -frames:v 1`), LOOK at them, then match just the named
+  aspect(s): "this tint" → hue/cast only (`hue`, `colorbalance`); "this
+  contrast" → `curves`/`eq` only; "how washed out it is" → saturation only;
+  "the way it cuts" → cut rhythm/density, not color at all; "that flash
+  effect" → just that effect from the cookbook. If they say "make it look
+  like this" without naming an aspect, ASK which parts they mean (color?
+  contrast? pacing? effects?) before matching more than one. Show a
+  confirmation frame before final render. If the reference is on the web and
+  Chrome tools are available, study it there the same way.
 
 ## Effects cookbook (apply with ffmpeg per segment, then re-concat)
 
