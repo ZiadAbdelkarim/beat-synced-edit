@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/60be3f2a-6e7d-48ef-8455-f08f0387a8b2
 </td>
 <td width="45%" align="center">
 
-https://github.com/user-attachments/assets/45679a8b-d434-4d84-86c4-c80a53e2fa4a
+https://github.com/user-attachments/assets/5959c81f-a305-446c-af12-92d15abade9d
 
 <em>9:16 beat-synced edit — green-strong grade, stock footage + my own single</em>
 
