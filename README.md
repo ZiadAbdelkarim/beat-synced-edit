@@ -16,14 +16,14 @@ Feed it a song and raw footage. It analyzes the beats, maps the energy, tags eve
 <tr>
 <td width="55%" align="center">
 
-PASTE-VIDEO-HERE (drag examples/preview_flash-montage-1x1.mp4 onto this line)
+https://github.com/user-attachments/assets/60be3f2a-6e7d-48ef-8455-f08f0387a8b2
 
 <em>1:1 montage — white-flash transitions + punch-ins, built via the bundled skill</em>
 
 </td>
 <td width="45%" align="center">
 
-PASTE-VIDEO-HERE (drag examples/preview_sealife-beat-edit-9x16.mp4 onto this line)
+https://github.com/user-attachments/assets/45679a8b-d434-4d84-86c4-c80a53e2fa4a
 
 <em>9:16 beat-synced edit — blue-strong grade, stock footage + my own single</em>
 
