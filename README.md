@@ -4,11 +4,22 @@ Automatic beat-synced video editing.
 
 Feed it a song and raw footage. It analyzes the beats, maps the energy, tags every scene, and cuts a ready-to-post edit — zero manual editing.
 
-<!-- drag preview_strong-blue-grade.mp4 here (beat-synced cut, strong blue grade) -->
-https://github.com/user-attachments/assets/34b8ef59-345d-4061-befe-aedda861d697
+<table>
+  <tr>
+  <td width="50%">
+  
+  <!-- drag preview_strong-blue-grade.mp4 here (beat-synced cut, strong blue grade) -->
+  https://github.com/user-attachments/assets/34b8ef59-345d-4061-befe-aedda861d697
 
-<!-- drag preview_squished-pink-9x16.mp4 here (9:16 vertical, squeeze + pink grade) -->
-https://github.com/user-attachments/assets/672a7783-76e9-4447-956a-a33a30822de8
+  </td>
+  <td width="50%">
+  
+  <!-- drag preview_squished-pink-9x16.mp4 here (9:16 vertical, squeeze + pink grade) -->
+  https://github.com/user-attachments/assets/672a7783-76e9-4447-956a-a33a30822de8
+
+  </td>
+  </tr>
+</table>
 
 Full-quality versions of both demos live in [`examples/`](examples/).
 
