@@ -1,8 +1,9 @@
-# beat-synced-edit Python or Claude Code skill pipeline
+# Beat-Synced Edits pipeline executable via Python or Claude Code skill 
 
 Automatic beat-synced video editing.
 
 Feed it a song and raw footage. It analyzes the beats, maps the energy, tags every scene, and cuts a ready-to-post edit — zero manual editing.
+With Claude Code, you can provide the skill reference material and orchestrate effects and transitions via text. 
 
 <table>
   <tr>
