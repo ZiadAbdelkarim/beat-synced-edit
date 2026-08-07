@@ -4,7 +4,16 @@ Automatic beat-synced video editing.
 
 Feed it a song and raw footage. It analyzes the beats, maps the energy, tags every scene, and cuts a ready-to-post edit — zero manual editing.
 
-<!-- TODO: demo GIF here -->
+<!-- EMBED STEP (do this once, in GitHub's web editor):
+     open this README with the pencil (Edit) button on github.com, then drag
+     examples/preview_strong-blue-grade.mp4 onto the line below — GitHub
+     uploads it and inserts a URL that renders as an inline video player. -->
+
+<!-- drag preview_strong-blue-grade.mp4 here (beat-synced cut, strong blue grade) -->
+
+<!-- drag preview_squished-pink-9x16.mp4 here (9:16 vertical, squeeze + pink grade) -->
+
+Full-quality versions of both demos live in [`examples/`](examples/).
 
 ---
 
@@ -30,14 +39,6 @@ In conversation you can also dictate:
 
 ---
 
-## Examples
-
-Two edits produced by this pipeline (click to play on GitHub):
-
-- [`examples/example_strong-blue-grade.mp4`](examples/example_strong-blue-grade.mp4) — beat-synced cut with a strong blue grade
-- [`examples/example_squished-pink-9x16.mp4`](examples/example_squished-pink-9x16.mp4) — 9:16 vertical with the squeeze + pink grade from `vertical_style.py`
-
----
 
 ## How it works
 
