@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/60be3f2a-6e7d-48ef-8455-f08f0387a8b2
 
 https://github.com/user-attachments/assets/45679a8b-d434-4d84-86c4-c80a53e2fa4a
 
-<em>9:16 beat-synced edit — blue-strong grade, stock footage + my own single</em>
+<em>9:16 beat-synced edit — green-strong grade, stock footage + my own single</em>
 
 </td>
 </tr>
