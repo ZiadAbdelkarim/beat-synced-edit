@@ -22,6 +22,21 @@ The repo ships a skill at `.claude/skills/beat-sync-edit/SKILL.md`. Open this fo
 
 Claude runs the same pipeline and layers ffmpeg effects at beat-accurate timestamps — white flashes, stretch punches, hue shifts, RGB split, speed ramps, shakes, color grades. The full effects cookbook lives in the skill file.
 
+In conversation you can also dictate:
+
+- **Aspect ratio** — 9:16 vertical, 1:1 square, stacked over-under, or leave it 16:9
+- **Cut density** — "a cut on every beat" vs "spaced out, let the shots breathe"
+- **Hue / tint by reference** — point Claude at any other video on your machine ("grade it like this one") and it will sample frames from the reference and build a matching color grade; with the Claude-in-Chrome extension it can even study a look from a video on the web
+
+---
+
+## Examples
+
+Two edits produced by this pipeline (click to play on GitHub):
+
+- [`examples/example_strong-blue-grade.mp4`](examples/example_strong-blue-grade.mp4) — beat-synced cut with a strong blue grade
+- [`examples/example_squished-pink-9x16.mp4`](examples/example_squished-pink-9x16.mp4) — 9:16 vertical with the squeeze + pink grade from `vertical_style.py`
+
 ---
 
 ## How it works
