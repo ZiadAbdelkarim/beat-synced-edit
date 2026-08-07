@@ -1,17 +1,35 @@
-# beat-sync pipeline
+# Beat-Synced Edit — Claude Code Automation
 
 Automatic beat-synced video editing.
 
 Feed it a song and raw footage. It analyzes the beats, maps the energy, tags every scene, and cuts a ready-to-post edit — zero manual editing.
 
-<!-- EMBED STEP (do this once, in GitHub's web editor):
-     open this README with the pencil (Edit) button on github.com, then drag
-     examples/preview_strong-blue-grade.mp4 onto the line below — GitHub
-     uploads it and inserts a URL that renders as an inline video player. -->
+## Demos
 
-<!-- drag examples/preview_sealife-beat-edit-9x16.mp4 here (9:16 beat-synced sea-life edit, blue-strong grade — stock footage + my own single) -->
+<!-- EMBED STEP (once, in GitHub's web editor): click the pencil on this README,
+     then for each cell below: select the PASTE-VIDEO-HERE line and drag the
+     matching file from examples/ onto it. GitHub uploads the video and inserts
+     a user-attachments URL that renders as an inline player. Keep the blank
+     lines around each URL — without them the player won't render. -->
 
-<!-- drag examples/preview_flash-montage-1x1.mp4 here (1:1 montage, white-flash transitions + punch-ins — built via the bundled skill) -->
+<table>
+<tr>
+<td width="55%" align="center">
+
+PASTE-VIDEO-HERE (drag examples/preview_flash-montage-1x1.mp4 onto this line)
+
+<em>1:1 montage — white-flash transitions + punch-ins, built via the bundled skill</em>
+
+</td>
+<td width="45%" align="center">
+
+PASTE-VIDEO-HERE (drag examples/preview_sealife-beat-edit-9x16.mp4 onto this line)
+
+<em>9:16 beat-synced edit — blue-strong grade, stock footage + my own single</em>
+
+</td>
+</tr>
+</table>
 
 Full-quality versions of both demos live in [`examples/`](examples/).
 
